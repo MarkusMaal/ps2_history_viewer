@@ -4,6 +4,8 @@ On (almost) every PlayStation 2 memory card, there is a save file called "Your S
 
 This tool allows you to list the games that your console has been logging, including the Game IDs, play counts, tower configuration data and the date the game was last booted, which get displayed as a neat table.
 
+You can look up which game the Game ID corresponds to from the [PS2 DataCenter website](https://psxdatacenter.com/psx2/).
+
 ## Compilation
 
 This program was designed to be compiled with GCC compiler. Other compilers are untested.
@@ -43,3 +45,7 @@ If done correctly, you should see a table that looks similar to this:
 | 21   | SLUS_208.55      | 3     | 0001         | 2019-06-13  |
 +------+------------------+-------+--------------+-------------+
 ```
+
+## ImHex pattern
+
+This repository includes a pattern file for the ImHex hex editor, which allows you visualize data structure of the history file with colors and description of what each segment is for when highlighted.
