@@ -4,7 +4,7 @@ On (almost) every PlayStation 2 memory card, there is a save file called "Your S
 
 This tool allows you to list the games that your console has been logging, including the Game IDs, play counts, tower configuration data and the date the game was last booted, which get displayed as a neat table.
 
-You can look up which game the Game ID corresponds to from the [PS2 DataCenter website](https://psxdatacenter.com/psx2/).
+You can look up which game the Game ID corresponds to from the [PS2 DataCenter website](https://psxdatacenter.com/psx2/sitenews2.html).
 
 ## Compilation
 
