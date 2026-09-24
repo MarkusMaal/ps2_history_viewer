@@ -1,6 +1,6 @@
 # PlayStation 2 history file viewer
 
-On (almost) every PlayStation 2 memory card, there is a save file called "Your System Configuration". Despite the name, it doesn't actually display any of the system settings, but what it instead stores is the history of games you have played for setting up the towers you see at the very beginning of the console startup process.
+On (almost) every PlayStation 2 memory card, there is a save file called "Your System Configuration". Despite the name, it doesn't actually store any of the system settings, but what it instead stores is the history of games you have played for setting up the towers you see at the very beginning of the console startup process.
 
 This tool allows you to list the games that your console has been logging, including the Game IDs, play counts, tower configuration data and the date the game was last booted, which get displayed as a neat table.
 
